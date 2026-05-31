@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BHappy</string>
+    <string name="shield_notification_title">Grounding Check-In 🌸</string>
+    <string name="shield_notification_text">Take 60 seconds to step away from overthinking. Breathe in deep with BHappy.</string>
+    <string name="timer_state_breathe_in">Inhale Slowly</string>
+    <string name="timer_state_hold">Hold Gently</string>
+    <string name="timer_state_breathe_out">Exhale Fully</string>
+    <string name="exercise_title_senses">5-4-3-2-1 Grounding</string>
+    <string name="exercise_title_box">Box Breathing</string>
+    <string name="exercise_title_heart">Coherent Heart Rhythm</string>
+</resources>

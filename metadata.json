@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BHappy",
+  "description": "A beautiful, minimalist anxiety relief and grounding app featuring countdown timers and soothing ambient exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

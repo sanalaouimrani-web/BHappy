@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sophisticated soothing double shadow overlay -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M54,60 m-18,0 a18,18 0 1,1 36,0 a18,18 0 1,1 -36,0" />
+        
+    <!-- Main Center Zen Lotus Nucleus -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 m-18,0 a18,18 0 1,1 36,0 a18,18 0 1,1 -36,0" />
+        
+    <!-- Top Petal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 m-12,0 a12,12 0 1,1 24,0 a12,12 0 1,1 -24,0" />
+        
+    <!-- Bottom Petal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,74 m-12,0 a12,12 0 1,1 24,0 a12,12 0 1,1 -24,0" />
+        
+    <!-- Left Petal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,54 m-12,0 a12,12 0 1,1 24,0 a12,12 0 1,1 -24,0" />
+        
+    <!-- Right Petal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,54 m-12,0 a12,12 0 1,1 24,0 a12,12 0 1,1 -24,0" />
+
+    <!-- Outer Fine Breath Ring -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m-30,0 a30,30 0 1,1 60,0 a30,30 0 1,1 -60,0" />
+</vector>
